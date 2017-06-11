@@ -1,0 +1,53 @@
+@charset "utf-8";
+body {
+    background-color: rgb(255, 159, 20);
+    min-width: 280px;
+	min-height: 280px;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+img {
+	display: block;
+    margin: auto;
+    padding: 5px;
+}
+
+.social {
+	display: block;
+	display: inline-block;
+	padding: 2px;
+	margin: auto;
+	position: relative;
+    left: 24px;
+}
+
+.home {
+	display: block;
+	display: inline-block;
+	margin: auto;
+}
+
+.colors {
+	display: block;
+	display: inline-block;
+	margin: auto;
+	padding: 2px;
+	position: relative;
+    left: 24px;
+}
+
+.languages {
+	display: block;
+	display: inline-block;
+	padding: 2px;
+	margin: auto;
+	position: relative;
+    left: 50px;
+}
+	}
+
+
